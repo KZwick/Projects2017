@@ -1,0 +1,23 @@
+actors
+	user and health professional
+
+- log in
+- main menu
+	-set pill reminder
+	-evaluation
+		-personality evaluation
+		-stress level
+		-depression level
+		-anxiety level
+	-medication information
+		-text or photo
+	-doctor or counsellor info
+	-appointment tracker
+	-"mental pick me up"
+	-record blood pressure and other pulse
+
+-log in
+-main menu
+	-view evaluation scores
+	-view pulse and BP
+	-provide feedback(maybe)
