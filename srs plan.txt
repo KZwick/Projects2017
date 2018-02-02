@@ -1,6 +1,7 @@
 1.	10 functional requirements
 Taki
 
+
 2.	5 non functional requirements
 Kevin
 
