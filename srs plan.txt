@@ -1,0 +1,29 @@
+1.	10 functional requirements
+Taki
+
+2.	5 non functional requirements
+Kevin
+
+3.	Interface design
+Taki
+
+4.	Use case diagram
+Taki
+
+5.	Overall Activity diagram (UML)
+Kevin
+
+6.	Software architecture to follow
+Kevin
+
+7.	Release plan
+Taki
+
+8.	Training plan
+Kevin
+
+9.	Design constraints (if any)
+Kevin and Taki
+
+10.	Please define references you have used to get the domain knowledge with the domain dictionary
+Kevin and Taki
