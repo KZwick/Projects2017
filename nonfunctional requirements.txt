@@ -1,0 +1,16 @@
+Non functionals requirements are not future requirements, but are requirements not seen by user. check?
+
+- storing passwords, encrypted or hash of passwords.
+- storing data on device of evaluations.
+- storing data history (list) of physical stats, pulse & blood pressure.
+- storing list of users/professionals with permission to view your stats.
+- uploading and storing of saved data off device in data structure / database.
+
+
+******* old ******************************************
+- messages between professional and user.
+- web interface for user.
+- web interface for professions.
+- reminders to wearable device.
+- receive data from wearable device ( watch ) BP app on phone.
+
